@@ -1,7 +1,6 @@
-# Getting Started with Create React App
+# React-Trippy-Tour
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+C:\Users\amita\Downloads\screencapture-localhost-3000-2023-08-29-15_00_03.png
 ## Available Scripts
 
 In the project directory, you can run:
