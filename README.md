@@ -8,8 +8,6 @@ let's see what react js actually is And I used :
 - CSS High Level
 - Responsive Web Design
 
-
-
 ## Setup
 
 1. Open Your VS Code(If you dont want to use codesandbox).
