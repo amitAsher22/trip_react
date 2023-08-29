@@ -1,7 +1,7 @@
 # React-Trippy-Tour
 ![screencapture-localhost-3000-2023-08-29-15_00_03](https://github.com/amitAsher22/trip_react/assets/69055006/597fbfe4-0045-4d86-84d6-9baab504d628)
 
-:gem: https://guileless-stardust-5ccb6b.netlify.app/
+:triangular_flag_on_post: https://guileless-stardust-5ccb6b.netlify.app/
 
 let's see what react js actually is And I used : 
 - *React* is a *JavaScript* library for building user-friendly interfaces.
