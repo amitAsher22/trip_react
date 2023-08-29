@@ -7,7 +7,7 @@ let's see what react js actually is And I used :
 - Modular Components National
 - CSS High Level
 - Responsive Web Design
-- 4 pages 
+- four pages 
 
 ## Setup
 
