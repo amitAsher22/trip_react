@@ -1,6 +1,6 @@
 # React-Trippy-Tour
 
-C:\Users\amita\Downloads\screencapture-localhost-3000-2023-08-29-15_00_03.png
+<img src=""C:\Users\amita\Downloads\screencapture-localhost-3000-2023-08-29-15_00_03.png"" width="128"/>
 ## Available Scripts
 
 In the project directory, you can run:
